@@ -1,9 +1,9 @@
-# passGenerator
+# Password Generator
 
-+Ask the user for the length of the password.
+I designed this project for practice.
 
-+Specify the characters to be used during the password creation process (such as uppercase letters, lowercase letters, numbers, and special characters).
+To contact me:
 
-+Print the password consisting of random characters to the screen.
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardaizlata/)
 
-+Let user copy password to clipboard.
+- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ardaizlata)
